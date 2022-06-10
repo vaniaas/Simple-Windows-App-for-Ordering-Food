@@ -1,0 +1,30 @@
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.exe.config
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.exe
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.pdb
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csprojResolveAssemblyReference.cache
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi_GM_X5_32.Form1.resources
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi_GM_X5_32.Properties.Resources.resources
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csproj.GenerateResource.Cache
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csproj.CoreCompileInputs.cache
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.exe
+D:\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.pdb
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.exe.config
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.exe
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.pdb
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csprojResolveAssemblyReference.cache
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi_GM_X5_32.Form1.resources
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi_GM_X5_32.Properties.Resources.resources
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csproj.GenerateResource.Cache
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csproj.CoreCompileInputs.cache
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.exe
+D:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.pdb
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.exe.config
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.exe
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\bin\Debug\Bakmi GM-X5-32.pdb
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csprojResolveAssemblyReference.cache
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi_GM_X5_32.Form1.resources
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi_GM_X5_32.Properties.Resources.resources
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csproj.GenerateResource.Cache
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.csproj.CoreCompileInputs.cache
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.exe
+F:\LAPTOP LAMA\x5\TIK\Bakmi GM-X5-32\Bakmi GM-X5-32\obj\Debug\Bakmi GM-X5-32.pdb
